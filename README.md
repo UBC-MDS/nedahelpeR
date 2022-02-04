@@ -50,6 +50,8 @@ flag_outliers(df, threshold=0.2)
 get_correlated_features(df, threshold=0.7)
 ```
 
+Further examples can be found [here](https://ubc-mds.github.io/nedahelpeR/articles/nedahelpeR-vignette.html)
+
 ## Function descriptions
 
 -   `overview`: This function calculates common descriptive statistical
